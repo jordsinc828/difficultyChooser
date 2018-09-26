@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "difficultyChooser", "difficultyChooser\difficultyChooser.csproj", "{FB858A7A-3C33-4155-A329-8E1014738F82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB858A7A-3C33-4155-A329-8E1014738F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB858A7A-3C33-4155-A329-8E1014738F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB858A7A-3C33-4155-A329-8E1014738F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB858A7A-3C33-4155-A329-8E1014738F82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECF1A797-884F-4144-A426-D77AADEF3CB0}
+	EndGlobalSection
+EndGlobal
